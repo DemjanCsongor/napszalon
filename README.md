@@ -1,2 +1,2 @@
 # napszalon
-a website for my mother :D
+just a simple website for my mother :D
